@@ -1,2 +1,2 @@
 # Coursera-Capstone
-Capstone project
+Coursera Capstone project
